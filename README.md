@@ -1,3 +1,3 @@
 # Python-project
-Basic python project as beginner
-Author  : Guarab
+Basic python project as beginner.
+Author  : Gaurab
